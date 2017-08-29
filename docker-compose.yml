@@ -11,7 +11,7 @@ services:
   drupal:
     image: 'bitnami/drupal:latest'
     ports:
-      - '80:80'
+      - '1000:80'
       - '443:443'
     volumes:
       - 'drupal_data:/bitnami'
