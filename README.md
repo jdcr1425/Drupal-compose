@@ -1,7 +1,5 @@
 # Drupal-compose
 
-<b>Imágenes en uso</b>
-
 <h2>Motor de Base de datos :</h2>
 
 <b>-mariaDB (imágen)</b>
