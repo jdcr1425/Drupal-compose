@@ -1,15 +1,15 @@
 # Drupal-compose
 
-Imágenes en uso
+<b>Imágenes en uso</b>
 
-Motor de Base de datos :
+<h2>Motor de Base de datos :</h2>
 
--mariaDB (imágen)
+<b>-mariaDB (imágen)</b>
 
 -En el docker-compose de nuestra aplicación usaremos la imagen de bitnami/mariadb:latest
 
-Aplicacion : 
+<h2>Aplicacion : </h2>
 
--Drupal (imágen)
+<b>-Drupal (imágen)</b>
 
 Nuestra aplicación se basará en la imagen bitnami/drupal:latest
